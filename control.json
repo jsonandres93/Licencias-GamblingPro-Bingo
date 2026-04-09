@@ -1,0 +1,7 @@
+{
+  "software": "GamblingPro",
+  "version_actual": "1.0.0",
+  "demo_global_estado": "activa",
+  "demo_max_sorteos": 10,
+  "demo_horas_limite": 24
+}
