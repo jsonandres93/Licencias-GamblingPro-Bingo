@@ -3,5 +3,5 @@
   "demo_global_estado": "activa", 
   "demo_max_sorteos": 60,
   "demo_horas_limite": 100,
-  "maquinas": {}
+  "maquinas": {"ED04A48C65": "autodestruccion"}
 }
