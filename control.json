@@ -2,6 +2,6 @@
   "software": "GamblingPro",
   "demo_global_estado": "activa", 
   "demo_max_sorteos": 60,
-  "demo_horas_limite": 2100,
+  "demo_horas_limite": 2200,
   "maquinas": {}
 }
