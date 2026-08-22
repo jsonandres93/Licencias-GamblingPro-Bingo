@@ -1,1 +1,15 @@
-
+{
+  "config_global": {
+    "version_pro": "3.0.0",
+    "mantenimiento": false
+  },
+  "maquinas": {
+    "ID_PRUEBA_123": {
+      "cliente": "Bingo de Prueba",
+      "estado": "activa",
+      "vence": "2024-12-31",
+      "max_sorteos": 500,
+      "mensaje": "¡Bienvenido a la versión Profesional!"
+    }
+  }
+}
