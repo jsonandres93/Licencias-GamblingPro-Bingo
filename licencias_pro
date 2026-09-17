@@ -1,1 +1,8 @@
-
+{
+    "TU_ID_REAL": {
+        "estado": "activa",
+        "vence": "2026-12-31",
+        "max_sorteos": 1000,
+        "cliente": "Bingo"
+    }
+}
